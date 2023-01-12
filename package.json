@@ -1,0 +1,10 @@
+{
+  "name": "Taskly",
+  "version": "1.0.0",
+  "description": "Your personal task manager",
+  "main": "index.js",
+  "repository": "https://github.com/Pro100CaHya/taskly",
+  "author": "Pro100CaHya",
+  "license": "MIT",
+  "private": true
+}
